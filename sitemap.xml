@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://www.spencerledger.com/</loc>
+        <lastmod>2024-09-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <title>Home ›› Spencer Ledger</title>
+        <use>Homepage.</use>
+    </url>
+    <url>
+        <loc>https://www.spencerledger.com/lander</loc>
+        <lastmod>2024-09-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <title>Home ›› Spencer Ledger</title>
+        <use>Homepage again, but with an extension.</use>
+    </url>
+    <url>
+        <loc>https://www.spencerledger.com/about</loc>
+        <lastmod>2024-09-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <title>About me ›› Spencer Ledger</title>
+        <use>A page with info all about me.</use>
+    </url>
+    <url>
+        <loc>https://www.spencerledger.com/contact</loc>
+        <lastmod>2024-09-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <title>Contact me ›› Spencer Ledger</title>
+        <use>Contact information for me.</use>
+    </url>
+    <url>
+        <loc>https://www.spencerledger.com/socials</loc>
+        <lastmod>2024-09-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <title>My socials ›› Spencer Ledger</title>
+        <use>A page with all my social links.</use>
+    </url>
+</urlset>
