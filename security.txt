@@ -2,8 +2,8 @@
 
 ## Reporting a Vulnerability
 
-To report a vulnerability, please contact webmaster@spencerledger.com detailing the vulnerability.
+To report a vulnerability, please contact webmaster@spencers.zone detailing the vulnerability.
 
 ## Any other issues
 
-To report any other issues, please email contact@spencerledger.com.
+To report any other issues, please email contact@spencers.zone.
