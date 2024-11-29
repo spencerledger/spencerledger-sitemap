@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /
-
-Sitemap: https://sitemap.spencerledger.com/sitemap.xml
