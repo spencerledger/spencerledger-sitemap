@@ -1,33 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Main pages -->
     <url>
         <loc>https://www.spencers.zone/</loc>
-        <lastmod>2024-09-28</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
+        <lastmod>2024-11-29</lastmod>
+        <priority>1.00</priority>
     </url>
     <url>
         <loc>https://www.spencers.zone/lander</loc>
-        <lastmod>2024-09-28</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://www.spencers.zone/about</loc>
-        <lastmod>2024-09-28</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+        <lastmod>2024-11-29</lastmod>
+        <priority>0.80</priority>
     </url>
     <url>
         <loc>https://www.spencers.zone/contact</loc>
-        <lastmod>2024-09-28</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+        <lastmod>2024-11-29</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.spencers.zone/about</loc>
+        <lastmod>2024-11-29</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.spencers.zone/press</loc>
+        <lastmod>2024-11-29</lastmod>
+        <priority>0.70</priority>
+    </url>
+    <url>
+        <loc>https://www.spencers.zone/about/ideology</loc>
+        <lastmod>2024-11-29</lastmod>
+        <priority>0.70</priority>
+    </url>
+    <url>
+        <loc>https://www.spencers.zone/about/Russo-Ukrainian-war</loc>
+        <lastmod>2024-11-29</lastmod>
+        <priority>0.70</priority>
     </url>
     <url>
         <loc>https://www.spencers.zone/socials</loc>
-        <lastmod>2024-09-28</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+        <lastmod>2024-11-29</lastmod>
+        <priority>0.70</priority>
+    </url>
+    <url>
+        <loc>https://www.spencers.zone/contact/legal</loc>
+        <lastmod>2024-11-29</lastmod>
+        <priority>0.60</priority>
+    </url>
+    <url>
+        <loc>https://www.spencers.zone/feedback</loc>
+        <lastmod>2024-11-29</lastmod>
+        <priority>0.60</priority>
+    </url>
+    <url>
+        <loc>https://www.spencers.zone/disclaimer</loc>
+        <lastmod>2024-11-29</lastmod>
+        <priority>0.60</priority>
+    </url>
+    <url>
+        <loc>https://www.spencers.zone/links</loc>
+        <lastmod>2024-11-29</lastmod>
+        <priority>0.60</priority>
+    </url>
+
+    <!-- Policies subdomain -->
+    <url>
+        <loc>https://policies.spencers.zone/</loc>
+        <lastmod>2024-11-29</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://policies.spencers.zone/use</loc>
+        <lastmod>2024-11-29</lastmod>
+        <priority>0.70</priority>
+    </url>
+    <url>
+        <loc>https://policies.spencers.zone/privacy</loc>
+        <lastmod>2024-11-29</lastmod>
+        <priority>0.70</priority>
+    </url>
+
+    <!-- Status subdomain -->
+    <url>
+        <loc>https://status.spencers.zone/</loc>
+        <lastmod>2024-11-29</lastmod>
+        <priority>0.50</priority>
     </url>
 </urlset>
