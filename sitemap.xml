@@ -16,19 +16,19 @@
   <url>
     <loc>https://www.spencers.zone/about</loc>
     <lastmod>2024-11-30</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/about/ideology</loc>
     <lastmod>2024-11-30</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/about/Russo-Ukrainian-war</loc>
     <lastmod>2024-11-30</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -40,7 +40,7 @@
   <url>
     <loc>https://www.spencers.zone/socials</loc>
     <lastmod>2024-11-30</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -52,25 +52,25 @@
   <url>
     <loc>https://www.spencers.zone/disclaimer</loc>
     <lastmod>2024-11-30</lastmod>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/links</loc>
     <lastmod>2024-11-30</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/links/scam-prevention</loc>
     <lastmod>2024-11-30</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/links/scam-recovery</loc>
     <lastmod>2024-11-30</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
@@ -82,61 +82,61 @@
   <url>
     <loc>https://policies.spencers.zone/</loc>
     <lastmod>2024-11-30</lastmod>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/contact/suggest</loc>
     <lastmod>2024-11-30</lastmod>
-    <changefreq>yearly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/contact/website-creation</loc>
     <lastmod>2024-11-30</lastmod>
-    <changefreq>yearly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/contact/legal</loc>
     <lastmod>2024-11-30</lastmod>
-    <changefreq>yearly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/contact/legal/legal-complaints</loc>
     <lastmod>2024-11-30</lastmod>
-    <changefreq>yearly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/contact/legal/gdpr</loc>
     <lastmod>2024-11-30</lastmod>
-    <changefreq>yearly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/contact/legal/copyright</loc>
     <lastmod>2024-11-30</lastmod>
-    <changefreq>yearly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/contact/legal/noc</loc>
     <lastmod>2024-11-30</lastmod>
-    <changefreq>yearly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/silence</loc>
     <lastmod>2024-11-30</lastmod>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/what</loc>
     <lastmod>2024-11-30</lastmod>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
@@ -148,7 +148,7 @@
   <url>
     <loc>https://www.spencers.zone/press</loc>
     <lastmod>2024-11-30</lastmod>
-    <changefreq>yearly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
@@ -190,7 +190,7 @@
   <url>
     <loc>https://www.spencers.zone/stress</loc>
     <lastmod>2024-11-30</lastmod>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
