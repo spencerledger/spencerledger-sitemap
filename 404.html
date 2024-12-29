@@ -1,21 +1,101 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>404 - File Not Found</title>
-  <link rel="stylesheet" href="styles.css">
-  <link rel="icon" href="https://cdn.spencers.zone/images/Warning.ico" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Not Found</title>
+    <link rel="icon" href="https://cdn.spencers.zone/images/404.ico">
+    <style>
+        body {
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Arial, sans-serif;
+            background: white;
+            color: #555;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        article {
+            max-width: 40rem;
+        }
+        h1 {
+            font-size: 2.25rem;
+            font-weight: 300;
+            margin: 0;
+        }
+        .err__container {
+            margin-bottom: 1.5rem;
+        }
+        p {
+            font-size: 14px;
+            margin: 0.5rem 0;
+        }
+        a {
+            color: #1F73B7;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .divider {
+            border-top: 1px solid #DDD;
+            margin: 20px 0;
+        }
+        .language-section {
+            margin-bottom: 2rem;
+        }
+        .language-section h4 {
+            margin: 0;
+            font-size: 1.2rem;
+            color: #333;
+        }
+        .language-section p {
+            margin: 5px 0 0 0;
+        }
+    </style>
 </head>
 <body>
-  <div class="container">
-    <h1 class="error">404</h1>
-    <p class="error">Sorry, we couldn't find the file you were looking for.</p>
-    <p class="error">See the sitemap XML file at <a href="https://sitemap.spencers.zone/sitemap.xml">"/sitemap.xml"</a>.</p>
-    <div class="button-container">
-      <a href="https://www.spencers.zone" class="button home">Go to main site</a>
-      <a href="https://clicks.spencers.zone/error-report" class="button support">Report an error</a>
-    </div>
-  </div>
+    <article>
+        <h1>This page doesn't exist</h1>
+        <div class="err__container">
+            <p>You may have mistyped the address or the page may have moved.</p>
+            <p><a href="https://www.spencers.zone/">Go back to the main website</a></p>
+        </div>
+        <div class="divider"></div>
+        <div class="language-section">
+            <h4>Português</h4>
+            <p>Você pode ter digitado o endereço errado ou a página pode ter sido movida.</p>
+        </div>
+        <div class="language-section">
+            <h4>Español</h4>
+            <p>Podría haberse equivocado al escribir la dirección o la página podría haber sido movida.</p>
+        </div>
+        <div class="language-section">
+            <h4>Deutsch</h4>
+            <p>Sie haben die Adresse u. U. falsch eingegeben oder die Seite wurde verschoben.</p>
+        </div>
+        <div class="language-section">
+            <h4>Français</h4>
+            <p>Il est possible que vous ayez mal saisi l’adresse ou que la page ait été déplacée.</p>
+        </div>
+        <div class="language-section">
+            <h4>Nederlands</h4>
+            <p>Mogelijk hebt u het adres niet goed getypt of is de pagina verplaatst.</p>
+        </div>
+        <div class="language-section">
+            <h4>Русский</h4>
+            <p>Возможно, вы ошиблись в адресе или страница была перемещена.</p>
+        </div>
+        <div class="language-section">
+            <h4>日本語</h4>
+            <p>入力したアドレスが正しくないか、ページが移動した可能性があります。</p>
+        </div>
+        <div class="language-section">
+            <h4>Italiano</h4>
+            <p>Forse hai digitato l’indirizzo sbagliato oppure la pagina è stata spostata.</p>
+        </div>
+    </article>
 </body>
 </html>
