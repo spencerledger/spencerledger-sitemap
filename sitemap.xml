@@ -4,109 +4,91 @@
   <!-- Main site URLs -->
   <url>
     <loc>https://www.spencers.zone/</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/about</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.spencers.zone/about/ideology</loc>
-    <lastmod>2025-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.spencers.zone/contact</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/socials</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/feedback</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.spencers.zone/disclaimer</loc>
-    <lastmod>2025-08-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.spencers.zone/links</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/links/scam-prevention</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/links/scam-recovery</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/contact/suggest</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/contact/website-creation</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/contact/legal</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/contact/legal/legal-complaints</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/contact/legal/gdpr</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/contact/legal/copyright</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.spencers.zone/contact/legal/noc</loc>
-    <lastmod>2025-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.spencers.zone/press</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -114,58 +96,51 @@
   <!-- Subdomains -->
   <url>
     <loc>https://status.spencers.zone/</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://status.spencers.zone/maintenance</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://status.spencers.zone/incidents</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://policies.spencers.zone/</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://policies.spencers.zone/privacy</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://policies.spencers.zone/use</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://policies.spencers.zone/history</loc>
-    <lastmod>2025-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://policies.spencers.zone/subdomains</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://tubby.spencers.zone/</loc>
-    <lastmod>2025-09-21</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
 </urlset>
-
